@@ -23,3 +23,21 @@ s.add("d")
 s.remove("a")
 
 print(s)
+
+
+# list and tuple are ordered
+# set is unordered
+
+# list and set are mutable
+# tuple is immutable, can not be changed after creation, not assignable
+
+# set does not allow duplicates
+# list allows duplicates
+# tuple allows duplicates
+
+# list and tuple are accessable by index
+# set is not accessable by index, because it is unordered
+
+# list -> append, remove, insert, pop
+# tuple -> count, index
+# set -> add, remove, discard, pop, clear -> no ending index, no duplicates
